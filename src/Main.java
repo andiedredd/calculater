@@ -15,17 +15,6 @@ public class Main { // класс мейн
         calculater.b = sc.nextInt();
         calculater.calculate();
 
-        if
-        String d = ("Hello, world!");
-        String d = ("Hello, sky!");
-        String d = ("By-by, baby!");
-
-        String d = ("By-by, baby!");
-        String d = ("Hello, sky!");
-        String d = ("Hello, world!");
-
-
-
 
 
     }
